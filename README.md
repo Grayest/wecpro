@@ -1,0 +1,1 @@
+See http://blog.reigndesign.com/blog/building-a-wechat-weixin-robot/
